@@ -79,23 +79,23 @@ http://localhost:8081/api/get-polygon?name=polygon1
                     "coordinates": [
                         [
                             [
-                                100,
+                                0,
                                 0
                             ],
                             [
-                                101,
+                                0,
+                                1
+                            ],
+                            [
+                                1,
                                 0
                             ],
                             [
-                                101,
+                                1,
                                 1
                             ],
                             [
-                                100,
-                                1
-                            ],
-                            [
-                                100,
+                                0,
                                 0
                             ]
                         ]
